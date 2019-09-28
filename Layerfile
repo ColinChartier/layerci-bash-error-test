@@ -1,0 +1,4 @@
+FROM ubuntu:18.04
+
+# this fails, try pasting it into a bash terminal
+RUN echo "hello!!"
